@@ -1,0 +1,7 @@
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb

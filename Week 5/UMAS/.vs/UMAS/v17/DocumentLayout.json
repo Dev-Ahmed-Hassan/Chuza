@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|d:\\study\\semesters\\semester 2\\oop\\week 5\\umas\\umas\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\umas\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\umas\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\umas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\umas\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\umas\\subjectbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\subjectbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\umas\\degreebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\degreebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\umas\\degreedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\degreedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\umas\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\umas\\degreeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\degreeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\umas\\subjectdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AAE15C-250C-4102-B4F9-7FE9B8AD17F2}|UMAS\\UMAS.csproj|solutionrelative:umas\\subjectdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DegreeBL.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\DegreeBL.cs",
+              "RelativeDocumentMoniker": "UMAS\\DegreeBL.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\DegreeBL.cs",
+              "RelativeToolTip": "UMAS\\DegreeBL.cs",
+              "ViewState": "AgIAAA0AAACAl5mZmZkBwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:45:35.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjectBL.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\SubjectBL.cs",
+              "RelativeDocumentMoniker": "UMAS\\SubjectBL.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\SubjectBL.cs",
+              "RelativeToolTip": "UMAS\\SubjectBL.cs",
+              "ViewState": "AgIAAAoAAACYmZmZmZknwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:45:50.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\StudentUI.cs",
+              "RelativeDocumentMoniker": "UMAS\\StudentUI.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\StudentUI.cs",
+              "RelativeToolTip": "UMAS\\StudentUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:31:58.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\StudentDL.cs",
+              "RelativeDocumentMoniker": "UMAS\\StudentDL.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\StudentDL.cs",
+              "RelativeToolTip": "UMAS\\StudentDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:51:56.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\StudentBL.cs",
+              "RelativeDocumentMoniker": "UMAS\\StudentBL.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\StudentBL.cs",
+              "RelativeToolTip": "UMAS\\StudentBL.cs",
+              "ViewState": "AgIAAAQAAAAQMzMzMzMjwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:43:27.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleUtility.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\ConsoleUtility.cs",
+              "RelativeDocumentMoniker": "UMAS\\ConsoleUtility.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\ConsoleUtility.cs",
+              "RelativeToolTip": "UMAS\\ConsoleUtility.cs",
+              "ViewState": "AgIAAAQAAAAAMzMzMzMLwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:36:44.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\Program.cs",
+              "RelativeDocumentMoniker": "UMAS\\Program.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\Program.cs",
+              "RelativeToolTip": "UMAS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:31:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DegreeDL.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\DegreeDL.cs",
+              "RelativeDocumentMoniker": "UMAS\\DegreeDL.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\DegreeDL.cs",
+              "RelativeToolTip": "UMAS\\DegreeDL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:07:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubjectUI.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\SubjectUI.cs",
+              "RelativeDocumentMoniker": "UMAS\\SubjectUI.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\SubjectUI.cs",
+              "RelativeToolTip": "UMAS\\SubjectUI.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:32:28.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DegreeUI.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\DegreeUI.cs",
+              "RelativeDocumentMoniker": "UMAS\\DegreeUI.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\DegreeUI.cs",
+              "RelativeToolTip": "UMAS\\DegreeUI.cs",
+              "ViewState": "AgIAABIAAACAZmZmZmYSwDIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:32:42.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubjectDL.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\SubjectDL.cs",
+              "RelativeDocumentMoniker": "UMAS\\SubjectDL.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 5\\UMAS\\UMAS\\SubjectDL.cs",
+              "RelativeToolTip": "UMAS\\SubjectDL.cs",
+              "ViewState": "AgIAAAoAAACgmZmZmZklwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:55:06.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

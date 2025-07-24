@@ -1,0 +1,7 @@
+D:\Study\Semesters\Semester 2\OOP\Week 5\UMAS\UMAS\bin\Debug\UMAS.exe.config
+D:\Study\Semesters\Semester 2\OOP\Week 5\UMAS\UMAS\bin\Debug\UMAS.exe
+D:\Study\Semesters\Semester 2\OOP\Week 5\UMAS\UMAS\bin\Debug\UMAS.pdb
+D:\Study\Semesters\Semester 2\OOP\Week 5\UMAS\UMAS\obj\Debug\UMAS.csproj.AssemblyReference.cache
+D:\Study\Semesters\Semester 2\OOP\Week 5\UMAS\UMAS\obj\Debug\UMAS.csproj.CoreCompileInputs.cache
+D:\Study\Semesters\Semester 2\OOP\Week 5\UMAS\UMAS\obj\Debug\UMAS.exe
+D:\Study\Semesters\Semester 2\OOP\Week 5\UMAS\UMAS\obj\Debug\UMAS.pdb

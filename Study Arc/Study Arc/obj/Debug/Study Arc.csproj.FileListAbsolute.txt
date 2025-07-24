@@ -1,0 +1,7 @@
+D:\Study\Semesters\Semester 2\OOP\PD 1\Study Arc\Study Arc\bin\Debug\Study Arc.exe.config
+D:\Study\Semesters\Semester 2\OOP\PD 1\Study Arc\Study Arc\bin\Debug\Study Arc.exe
+D:\Study\Semesters\Semester 2\OOP\PD 1\Study Arc\Study Arc\bin\Debug\Study Arc.pdb
+D:\Study\Semesters\Semester 2\OOP\PD 1\Study Arc\Study Arc\obj\Debug\Study Arc.csproj.AssemblyReference.cache
+D:\Study\Semesters\Semester 2\OOP\PD 1\Study Arc\Study Arc\obj\Debug\Study Arc.csproj.CoreCompileInputs.cache
+D:\Study\Semesters\Semester 2\OOP\PD 1\Study Arc\Study Arc\obj\Debug\Study Arc.exe
+D:\Study\Semesters\Semester 2\OOP\PD 1\Study Arc\Study Arc\obj\Debug\Study Arc.pdb

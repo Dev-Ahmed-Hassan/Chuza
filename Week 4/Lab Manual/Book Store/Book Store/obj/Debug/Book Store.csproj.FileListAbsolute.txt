@@ -1,0 +1,7 @@
+D:\Study\Semesters\Semester 2\OOP\Week 4\Lab Manual\Book Store\Book Store\bin\Debug\Book Store.exe.config
+D:\Study\Semesters\Semester 2\OOP\Week 4\Lab Manual\Book Store\Book Store\bin\Debug\Book Store.exe
+D:\Study\Semesters\Semester 2\OOP\Week 4\Lab Manual\Book Store\Book Store\bin\Debug\Book Store.pdb
+D:\Study\Semesters\Semester 2\OOP\Week 4\Lab Manual\Book Store\Book Store\obj\Debug\Book Store.csproj.AssemblyReference.cache
+D:\Study\Semesters\Semester 2\OOP\Week 4\Lab Manual\Book Store\Book Store\obj\Debug\Book Store.csproj.CoreCompileInputs.cache
+D:\Study\Semesters\Semester 2\OOP\Week 4\Lab Manual\Book Store\Book Store\obj\Debug\Book Store.exe
+D:\Study\Semesters\Semester 2\OOP\Week 4\Lab Manual\Book Store\Book Store\obj\Debug\Book Store.pdb

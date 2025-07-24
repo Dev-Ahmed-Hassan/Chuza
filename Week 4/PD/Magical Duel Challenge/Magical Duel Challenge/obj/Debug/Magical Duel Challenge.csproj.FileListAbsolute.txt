@@ -1,0 +1,7 @@
+D:\Study\Semesters\Semester 2\OOP\PD Week 4\Magical Duel Challenge\Magical Duel Challenge\obj\Debug\Magical Duel Challenge.csproj.AssemblyReference.cache
+D:\Study\Semesters\Semester 2\OOP\PD Week 4\Magical Duel Challenge\Magical Duel Challenge\obj\Debug\Magical Duel Challenge.csproj.CoreCompileInputs.cache
+D:\Study\Semesters\Semester 2\OOP\PD Week 4\Magical Duel Challenge\Magical Duel Challenge\bin\Debug\Magical Duel Challenge.exe.config
+D:\Study\Semesters\Semester 2\OOP\PD Week 4\Magical Duel Challenge\Magical Duel Challenge\bin\Debug\Magical Duel Challenge.exe
+D:\Study\Semesters\Semester 2\OOP\PD Week 4\Magical Duel Challenge\Magical Duel Challenge\bin\Debug\Magical Duel Challenge.pdb
+D:\Study\Semesters\Semester 2\OOP\PD Week 4\Magical Duel Challenge\Magical Duel Challenge\obj\Debug\Magical Duel Challenge.exe
+D:\Study\Semesters\Semester 2\OOP\PD Week 4\Magical Duel Challenge\Magical Duel Challenge\obj\Debug\Magical Duel Challenge.pdb

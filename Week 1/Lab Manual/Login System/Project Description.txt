@@ -1,0 +1,2 @@
+This project is a simple SignIn/SignUp page.
+It also uses file handeling to store the signedIn users

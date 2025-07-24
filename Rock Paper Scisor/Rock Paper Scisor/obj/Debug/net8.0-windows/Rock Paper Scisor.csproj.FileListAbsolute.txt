@@ -1,0 +1,17 @@
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\bin\Debug\net8.0-windows\Rock Paper Scisor.exe
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\bin\Debug\net8.0-windows\Rock Paper Scisor.deps.json
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\bin\Debug\net8.0-windows\Rock Paper Scisor.runtimeconfig.json
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\bin\Debug\net8.0-windows\Rock Paper Scisor.dll
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\bin\Debug\net8.0-windows\Rock Paper Scisor.pdb
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\Rock_Paper_Scisor.Form1.resources
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\Rock Paper Scisor.csproj.GenerateResource.cache
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\Rock Paper Scisor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\Rock Paper Scisor.AssemblyInfoInputs.cache
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\Rock Paper Scisor.AssemblyInfo.cs
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\Rock Paper Scisor.csproj.CoreCompileInputs.cache
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\Rock Paper Scisor.dll
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\refint\Rock Paper Scisor.dll
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\Rock Paper Scisor.pdb
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\Rock Paper Scisor.genruntimeconfig.cache
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\ref\Rock Paper Scisor.dll
+D:\Study\Semesters\Semester 2\OOP\Rock Paper Scisor\Rock Paper Scisor\obj\Debug\net8.0-windows\Rock_Paper_Scisor.Properties.Resources.resources

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 4\\Lab Manual\\Book Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C5A37-73D4-4507-ADFF-0C813C1BDD21}|Book Store\\Book Store.csproj|d:\\study\\semesters\\semester 2\\oop\\week 4\\lab manual\\book store\\book store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C5A37-73D4-4507-ADFF-0C813C1BDD21}|Book Store\\Book Store.csproj|solutionrelative:book store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C5A37-73D4-4507-ADFF-0C813C1BDD21}|Book Store\\Book Store.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 4\\Lab Manual\\Book Store\\book store\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C5A37-73D4-4507-ADFF-0C813C1BDD21}|Book Store\\Book Store.csproj|solutionrelative:book store\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C5A37-73D4-4507-ADFF-0C813C1BDD21}|Book Store\\Book Store.csproj|D:\\Study\\Semesters\\Semester 2\\OOP\\Week 4\\Lab Manual\\Book Store\\book store\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C5A37-73D4-4507-ADFF-0C813C1BDD21}|Book Store\\Book Store.csproj|solutionrelative:book store\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 4\\Lab Manual\\Book Store\\Book Store\\Book.cs",
+              "RelativeDocumentMoniker": "Book Store\\Book.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 4\\Lab Manual\\Book Store\\Book Store\\Book.cs",
+              "RelativeToolTip": "Book Store\\Book.cs",
+              "ViewState": "AgIAAAYAAACgmZmZmZkhwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:22:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 4\\Lab Manual\\Book Store\\Book Store\\Member.cs",
+              "RelativeDocumentMoniker": "Book Store\\Member.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 4\\Lab Manual\\Book Store\\Book Store\\Member.cs",
+              "RelativeToolTip": "Book Store\\Member.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:26:05.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 4\\Lab Manual\\Book Store\\Book Store\\Program.cs",
+              "RelativeDocumentMoniker": "Book Store\\Program.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Week 4\\Lab Manual\\Book Store\\Book Store\\Program.cs",
+              "RelativeToolTip": "Book Store\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAMjMzMzMlwCkBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:15:35.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\SA1\SA1\bin\Debug\SA1.exe.config
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\SA1\SA1\bin\Debug\SA1.exe
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\SA1\SA1\bin\Debug\SA1.pdb
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\SA1\SA1\obj\Debug\SA1.csproj.AssemblyReference.cache
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\SA1\SA1\obj\Debug\SA1.csproj.CoreCompileInputs.cache
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\SA1\SA1\obj\Debug\SA1.exe
+D:\Study\Semesters\Semester 2\OOP\Lab 2\SA 1\SA1\SA1\obj\Debug\SA1.pdb

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Semesters\\Semester 2\\OOP\\PD Week 4\\Ocean Navigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21D259A5-FED9-4F6F-B008-8559E4F32812}|Ocean Navigation\\Ocean Navigation.csproj|d:\\study\\semesters\\semester 2\\oop\\pd week 4\\ocean navigation\\ocean navigation\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D259A5-FED9-4F6F-B008-8559E4F32812}|Ocean Navigation\\Ocean Navigation.csproj|solutionrelative:ocean navigation\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D259A5-FED9-4F6F-B008-8559E4F32812}|Ocean Navigation\\Ocean Navigation.csproj|d:\\study\\semesters\\semester 2\\oop\\pd week 4\\ocean navigation\\ocean navigation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D259A5-FED9-4F6F-B008-8559E4F32812}|Ocean Navigation\\Ocean Navigation.csproj|solutionrelative:ocean navigation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D259A5-FED9-4F6F-B008-8559E4F32812}|Ocean Navigation\\Ocean Navigation.csproj|d:\\study\\semesters\\semester 2\\oop\\pd week 4\\ocean navigation\\ocean navigation\\angle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D259A5-FED9-4F6F-B008-8559E4F32812}|Ocean Navigation\\Ocean Navigation.csproj|solutionrelative:ocean navigation\\angle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ship.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\PD Week 4\\Ocean Navigation\\Ocean Navigation\\ship.cs",
+              "RelativeDocumentMoniker": "Ocean Navigation\\ship.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\PD Week 4\\Ocean Navigation\\Ocean Navigation\\ship.cs",
+              "RelativeToolTip": "Ocean Navigation\\ship.cs",
+              "ViewState": "AgIAAAgAAACgmZmZmZktwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T18:17:42.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "angle.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\PD Week 4\\Ocean Navigation\\Ocean Navigation\\angle.cs",
+              "RelativeDocumentMoniker": "Ocean Navigation\\angle.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\PD Week 4\\Ocean Navigation\\Ocean Navigation\\angle.cs",
+              "RelativeToolTip": "Ocean Navigation\\angle.cs",
+              "ViewState": "AgIAAAwAAABAMzMzMzMXwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T18:06:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\PD Week 4\\Ocean Navigation\\Ocean Navigation\\Program.cs",
+              "RelativeDocumentMoniker": "Ocean Navigation\\Program.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\PD Week 4\\Ocean Navigation\\Ocean Navigation\\Program.cs",
+              "RelativeToolTip": "Ocean Navigation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:43:34.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

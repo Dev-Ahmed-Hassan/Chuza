@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Semesters\\Semester 2\\OOP\\Rock Paper Scisor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C582CF97-D847-4CBD-92CF-1A4E6DAC1562}|Rock Paper Scisor\\Rock Paper Scisor.csproj|d:\\study\\semesters\\semester 2\\oop\\rock paper scisor\\rock paper scisor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C582CF97-D847-4CBD-92CF-1A4E6DAC1562}|Rock Paper Scisor\\Rock Paper Scisor.csproj|solutionrelative:rock paper scisor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C582CF97-D847-4CBD-92CF-1A4E6DAC1562}|Rock Paper Scisor\\Rock Paper Scisor.csproj|d:\\study\\semesters\\semester 2\\oop\\rock paper scisor\\rock paper scisor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C582CF97-D847-4CBD-92CF-1A4E6DAC1562}|Rock Paper Scisor\\Rock Paper Scisor.csproj|solutionrelative:rock paper scisor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Rock Paper Scisor\\Rock Paper Scisor\\Form1.cs",
+              "RelativeDocumentMoniker": "Rock Paper Scisor\\Form1.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Rock Paper Scisor\\Rock Paper Scisor\\Form1.cs",
+              "RelativeToolTip": "Rock Paper Scisor\\Form1.cs",
+              "ViewState": "AgIAACUAAADAzMzMzMwUwDYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:06:27.473Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Semesters\\Semester 2\\OOP\\Rock Paper Scisor\\Rock Paper Scisor\\Form1.cs",
+              "RelativeDocumentMoniker": "Rock Paper Scisor\\Form1.cs",
+              "ToolTip": "D:\\Study\\Semesters\\Semester 2\\OOP\\Rock Paper Scisor\\Rock Paper Scisor\\Form1.cs [Design]",
+              "RelativeToolTip": "Rock Paper Scisor\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:50:42.341Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
